@@ -7,4 +7,5 @@
 
 
 # 数据集
-SDD 数据集（Stanford Drone Dataset）：无人机航拍的车辆 + 行人 + 自行车轨迹数据集，场景更复杂（包含路口、直道、弯道、停车场）（https://cvgl.stanford.edu/projects/uav_data/ ）
+SDD 数据集（Stanford Drone Dataset）：无人机航拍的车辆 + 行人 + 自行车轨迹数据集，场景更复杂（https://cvgl.stanford.edu/projects/uav_data/ )
+ETH/UCY 数据集：轨迹预测的基准数据集，包含 ETH、Hotel、Zara1、Zara2、University 共 5 个子集，采集的是行人 + 车辆的轨迹（https://gitee.com/laohu9527/eth-ucy-trajectory-dataset）

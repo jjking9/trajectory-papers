@@ -19,11 +19,13 @@ ETH/UCY 数据集：轨迹预测的基准数据集，包含 ETH、Hotel、Zara1�
 ## 论文
 
 ### 2023年
-PhysDiff: Physics-Guided Human Motion Diffusion Model --ICCV  [论文](https://arxiv.org/pdf/2212.02500)
+PhysDiff: Physics-Guided Human Motion Diffusion Model--ICCV [论文](https://arxiv.org/pdf/2212.02500)
+
+Leapfrog Diffusion Model for Stochastic Trajectory Prediction--CVPR [论文](http://openaccess.thecvf.com/content/CVPR2023/papers/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.pdf)--[代码](https://github.com/MediaBrain-SJTU/LED)
 
 
 ### 2026年
-DiffRefiner: Coarse to Fine Trajectory Planning via Diffusion Refinement with Semantic Interaction for End to End Autonomous Driving --AAAI [论文](https://arxiv.org/pdf/2511.17150)
+DiffRefiner: Coarse to Fine Trajectory Planning via Diffusion Refinement with Semantic Interaction for End to End Autonomous Driving--AAAI [论文](https://arxiv.org/pdf/2511.17150)
 
 
 

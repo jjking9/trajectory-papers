@@ -6,7 +6,7 @@
 
 
 
-# 数据集
+## 数据集
 SDD 数据集（Stanford Drone Dataset）：无人机航拍的车辆 + 行人 + 自行车轨迹数据集，场景更复杂（https://cvgl.stanford.edu/projects/uav_data/ )
 
 ETH/UCY 数据集：轨迹预测的基准数据集，包含 ETH、Hotel、Zara1、Zara2、University 共 5 个子集，采集的是行人 + 车辆的轨迹（https://gitee.com/laohu9527/eth-ucy-trajectory-dataset）
@@ -16,9 +16,14 @@ ETH/UCY 数据集：轨迹预测的基准数据集，包含 ETH、Hotel、Zara1�
 
 
 
-# 论文
+## 论文
 
-# 2023年
-PhysDiff: Physics-Guided Human Motion Diffusion Model --ICCV 2023 （https://arxiv.org/pdf/2212.02500）
+### 2023年
+PhysDiff: Physics-Guided Human Motion Diffusion Model --ICCV  [论文](https://arxiv.org/pdf/2212.02500)
+
+
+### 2026年
+DiffRefiner: Coarse to Fine Trajectory Planning via Diffusion Refinement with Semantic Interaction for End to End Autonomous Driving --AAAI [论文](https://arxiv.org/pdf/2511.17150)
+
 
 

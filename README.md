@@ -11,7 +11,8 @@ SDD 数据集（Stanford Drone Dataset）：无人机航拍的车辆 + 行人 + 
 
 ETH/UCY 数据集：轨迹预测的基准数据集，包含 ETH、Hotel、Zara1、Zara2、University 共 5 个子集，采集的是行人 + 车辆的轨迹（https://gitee.com/laohu9527/eth-ucy-trajectory-dataset）
 
-
+## 综述
+RECENT ADVANCES IN MULTI-AGENT HUMAN TRAJECTORY PREDICTION: A COMPREHENSIVE REVIEW [论文](https://export.arxiv.org/pdf/2506.14831v2)
 
 
 

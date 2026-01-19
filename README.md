@@ -28,6 +28,8 @@ Leapfrog Diffusion Model for Stochastic Trajectory Prediction--CVPR [论文](htt
 
 BCDiff: Bidirectional Consistent Diffusion for Instantaneous Trajectory Prediction--NeurIPS[论文](https://proceedings.neurips.cc/paper_files/paper/2023/file/2e57e2c14232a7b99cf76213e190822d-Paper-Conference.pdf)
 
+EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction--IEEE [论文](https://export.arxiv.org/pdf/2308.06564v2)
+
 
 ### 2025年
 Diffusion^2: Dual Diffusion Model with Uncertainty-Aware Adaptive Noise for Momentary Trajectory Prediction--[论文](https://export.arxiv.org/pdf/2510.04365v1)

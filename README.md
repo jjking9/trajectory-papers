@@ -24,6 +24,10 @@ PhysDiff: Physics-Guided Human Motion Diffusion Model--ICCV [论文](https://arx
 Leapfrog Diffusion Model for Stochastic Trajectory Prediction--CVPR [论文](http://openaccess.thecvf.com/content/CVPR2023/papers/Mao_Leapfrog_Diffusion_Model_for_Stochastic_Trajectory_Prediction_CVPR_2023_paper.pdf)--[代码](https://github.com/MediaBrain-SJTU/LED)
 
 
+### 2025年
+Diffusion^2: Dual Diffusion Model with Uncertainty-Aware Adaptive Noise for Momentary Trajectory Prediction--[论文](https://export.arxiv.org/pdf/2510.04365v1)
+
+
 ### 2026年
 DiffRefiner: Coarse to Fine Trajectory Planning via Diffusion Refinement with Semantic Interaction for End to End Autonomous Driving--AAAI [论文](https://arxiv.org/pdf/2511.17150)
 

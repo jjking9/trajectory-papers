@@ -30,6 +30,9 @@ BCDiff: Bidirectional Consistent Diffusion for Instantaneous Trajectory Predicti
 
 EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction--IEEE [论文](https://export.arxiv.org/pdf/2308.06564v2)
 
+### 2024年
+TrajFine: Predicted Trajectory Refinement for Pedestrian Trajectory Forecasting--CVPR[论文](https://openaccess.thecvf.com/content/CVPR2024W/WAD/papers/Wang_TrajFine_Predicted_Trajectory_Refinement_for_Pedestrian_Trajectory_Forecasting_CVPRW_2024_paper.pdf)
+
 
 ### 2025年
 Diffusion^2: Dual Diffusion Model with Uncertainty-Aware Adaptive Noise for Momentary Trajectory Prediction--[论文](https://export.arxiv.org/pdf/2510.04365v1)

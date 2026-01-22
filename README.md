@@ -20,7 +20,7 @@ RECENT ADVANCES IN MULTI-AGENT HUMAN TRAJECTORY PREDICTION: A COMPREHENSIVE REVI
 ## 论文
 
 ### 2022年
-Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion--CVPR [论文](https://export.arxiv.org/pdf/2203.13777v1)
+Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion--CVPR [论文](https://export.arxiv.org/pdf/2203.13777v1)--[代码](https://github.com/Gutianpei/MID)
 
 ### 2023年
 PhysDiff: Physics-Guided Human Motion Diffusion Model--ICCV [论文](https://arxiv.org/pdf/2212.02500)

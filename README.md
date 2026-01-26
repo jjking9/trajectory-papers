@@ -1,15 +1,31 @@
 # trajectory-papers
-我是一名轨迹方向研究生，整理的平时看的轨迹论文，如果对你有帮助的话，请给我一点点star
+This is a paper, review, and dataset on trajectory prediction direction. Thank you for your attention
+Maintainer: Dai Liwei (Beijing University of Information Science and Technology) Email: 1585379206@qq.com
+Welcome to pull requests to add new resources at any time, or send us emails to raise questions, discuss, and collaborate. We hope to connect more students, teachers, and masters in the field of multi-agent trajectory prediction. If you also want to do so, you can add me on WeChat (15549556973). Let's create a trajectory prediction community group together
 
 
+## DataSets
+[Stanford Drone Dataset](https://cvgl.stanford.edu/projects/uav_data/)
 
+[ETH/UCY]（https://github.com/cwang-nus/ETH-UCY-datasets）
 
+[GeoLife](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)
 
+[TrajNet](http://trajnet.stanford.edu/)
 
-## 数据集
-SDD 数据集（Stanford Drone Dataset）：无人机航拍的车辆 + 行人 + 自行车轨迹数据集，场景更复杂（https://cvgl.stanford.edu/projects/uav_data/ )
+[Oxford Town Center](https://exposing.ai/oxford_town_centre/)
 
-ETH/UCY 数据集：轨迹预测的基准数据集，包含 ETH、Hotel、Zara1、Zara2、University 共 5 个子集，采集的是行人 + 车辆的轨迹（https://github.com/cwang-nus/ETH-UCY-datasets）
+[New York Grand Central Station](https://www.ee.cuhk.edu.hk/~xgwang/grandcentral.html)
+
+[PIE](https://data.nvision2.eecs.yorku.ca/PIE_dataset/)
+
+[JAAD](https://data.nvision2.eecs.yorku.ca/JAAD_dataset/)
+
+[DS4C-PPP](https://www.kaggle.com/datasets/kimjihoo/coronavirusdataset)
+
+[BDBC COVID-19](https://github.com/BDBC-KG-NLP/COVID-19-tracker)
+
+[Vi-Fi](https://sites.google.com/winlab.rutgers.edu/vi-fidataset/home)
 
 ## 综述
 RECENT ADVANCES IN MULTI-AGENT HUMAN TRAJECTORY PREDICTION: A COMPREHENSIVE REVIEW [论文](https://export.arxiv.org/pdf/2506.14831v2)

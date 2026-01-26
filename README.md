@@ -1,7 +1,7 @@
 # trajectory-papers
 This is a paper, review, and dataset on trajectory prediction direction. Thank you for your attention
 
-Maintainer: Dai Liwei (Beijing University of Information Science and Technology) Email: 1585379206@qq.com
+Maintainer: Dai Liwei (Beijing University of Information Science and Technology)   Email: 1585379206@qq.com
 Welcome to pull requests to add new resources at any time, or send us emails to raise questions, discuss, and collaborate. We hope to connect more students, teachers, and masters in the field of multi-agent trajectory prediction. If you also want to do so, you can add me on WeChat (15549556973). Let's create a trajectory prediction community group together
 
 
@@ -12,7 +12,7 @@ Welcome to pull requests to add new resources at any time, or send us emails to 
 ## Pedestrians Publicly Available Datasets
 [Stanford Drone Dataset](https://cvgl.stanford.edu/projects/uav_data/)
 
-[ETH/UCY]（https://github.com/cwang-nus/ETH-UCY-datasets）
+[ETH/UCY](https://github.com/cwang-nus/ETH-UCY-datasets)
 
 [GeoLife](https://www.microsoft.com/en-us/research/publication/geolife-gps-trajectory-dataset-user-guide/)
 
@@ -34,19 +34,28 @@ Welcome to pull requests to add new resources at any time, or send us emails to 
 
 ## Aircraft Datasets
 [LocaRDS](https://atmdata.github.io/)
+
 [ZUMAVD](https://rpg.ifi.uzh.ch/zurichmavdataset.html)
 
 ## Ship Datasets
 [Ushant](https://figshare.com/articles/dataset/Ushant_AIS_dataset/8966273)
+
 [Cargo](https://link.springer.com/article/10.1007/s10707-020-00421-y)
+
+
+
 
 # 综述
 RECENT ADVANCES IN MULTI-AGENT HUMAN TRAJECTORY PREDICTION: A COMPREHENSIVE REVIEW [论文](https://export.arxiv.org/pdf/2506.14831v2)
+
+
 
 # 论文
 
 ## 2022年
 Stochastic Trajectory Prediction via Motion Indeterminacy Diffusion--CVPR [论文](https://export.arxiv.org/pdf/2203.13777v1)
+
+
 
 ## 2023年
 PhysDiff: Physics-Guided Human Motion Diffusion Model--ICCV [论文](https://arxiv.org/pdf/2212.02500)

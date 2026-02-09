@@ -57,6 +57,8 @@ RECENT ADVANCES IN MULTI-AGENT HUMAN TRAJECTORY PREDICTION: A COMPREHENSIVE REVI
 
 Exploiting AIS Data for Intelligent Maritime  Navigation: A Comprehensive Survey [论文](https://arxiv.org/pdf/1606.00981)
 
+Vessel Trajectory Data Mining: A Review [论文](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10824766)
+
 
 
 # 论文
@@ -79,6 +81,9 @@ EquiDiff: A Conditional Equivariant Diffusion Model For Trajectory Prediction--I
 
 Query-Centric Trajectory Prediction--CVPR[论文](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_Query-Centric_Trajectory_Prediction_CVPR_2023_paper.pdf)
 
+Asynchronous Trajectory Matching-Based ultimodal Maritime Data Fusion for Vessel Traffic Surveillance in Inland Waterways--TITS[论文](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10159572)
+
+
 
 
 ## 2024年
@@ -89,6 +94,8 @@ Pedestrian Trajectory Prediction Based on Social Interactions Learning with Rand
 
 DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction--IV[论文](https://export.arxiv.org/pdf/2310.14570v1)
 
+An AIS Data-Driven Hybrid Approach to Ship Trajectory Prediction--TSMC[论文](https://ieeexplore.ieee.org/abstract/document/10689619/)
+
 
 
 ## 2025年
@@ -96,6 +103,8 @@ DICE: Diverse Diffusion Model with Scoring for Trajectory Prediction--IV[论文]
 Diffusion^2: Dual Diffusion Model with Uncertainty-Aware Adaptive Noise for Momentary Trajectory Prediction--[论文](https://export.arxiv.org/pdf/2510.04365v1)
 
 Novel Diffusion Models for Multimodal 3D Hand Trajectory Prediction--IROS[论文](https://export.arxiv.org/pdf/2504.07375v2)
+
+AIS-based Hybrid Vessel Trajectory Prediction for Enhanced Maritime Navigation--JIOT[论文](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11301841)
 
 
 

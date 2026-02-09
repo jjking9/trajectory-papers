@@ -55,6 +55,8 @@ Welcome to pull requests to add new resources at any time, or send us emails to 
 
 RECENT ADVANCES IN MULTI-AGENT HUMAN TRAJECTORY PREDICTION: A COMPREHENSIVE REVIEW [论文](https://export.arxiv.org/pdf/2506.14831v2)
 
+Exploiting AIS Data for Intelligent Maritime  Navigation: A Comprehensive Survey [论文](https://arxiv.org/pdf/1606.00981)
+
 
 
 # 论文

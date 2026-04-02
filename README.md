@@ -114,3 +114,4 @@ DiffRefiner: Coarse to Fine Trajectory Planning via Diffusion Refinement with Se
 
 ViTE: Virtual Graph Trajectory Expert Router for Pedestrian Trajectory Prediction--AAAI [论文](https://arxiv.org/pdf/2511.12214) [代码](https://github.com/Carrotsniper/ViTE)
 
+TRAJEVO: Trajectory Prediction Heuristics Design via LLM-driven Evolution--AAAI [论文](https://www.arxiv.org/pdf/2508.05616) [代码](https://github.com/ai4co/trajevo)
